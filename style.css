@@ -6,7 +6,7 @@
  *
  */
 
-/*Title Code */
+/**************** Title Code ***************/
 h1.site-title {
   background-color: blue;
   width: 2000px;
@@ -29,9 +29,7 @@ h1{
   text-align: left;
 }
 
-/* Navagation list code */
-
-
+/**************** Navagation list code **************/
 .navbar{
   background-color: white;
   width: 1900px;
@@ -69,7 +67,7 @@ h1{
   background-color: white;
 }
 
-/* Main contents code*/
+/************** Main contents code**************/
 .twit-container{
   background-color: gray;
   border-color: white;
@@ -138,7 +136,7 @@ h1{
   text-align: center;
 }
 
-/*** Hovering code */
+/***************** Hovering code *******************/
 li:hover{
   background-color: blue;
 }
