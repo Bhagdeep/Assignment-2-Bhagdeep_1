@@ -75,7 +75,7 @@ h1{
   width: 1825px;
   padding: 50px 90px 50px 90px;
   display: flex;
-  /flex-direction: column;
+  flex-direction: column;
   flex-direction: row;
   flex: 500px;
   justify-content: space-between;
@@ -116,6 +116,7 @@ h1{
   font-family: Roboto;
 }
 
+/***************** Red Bullhorn Code ******************/
 .fas.fa-bullhorn
 {
   text-align: right;
